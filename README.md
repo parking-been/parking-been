@@ -3,25 +3,16 @@
 </div>
 
 <div align="center">
-<table>
-  <tr>
-    <td width="160" valign="middle">
-      <img src="깃허브프로필사진2.jpg" width="160" />
-    </td>
-    <td valign="middle">
-      <h2>안녕하세요, Been입니다 👋</h2>
-      <p>
-        <b>AI에 관심이 많은 백엔드 & 인프라 엔지니어입니다.</b><br>
-        기술로 실질적인 문제를 해결하는 시스템을 만드는 것을 즐깁니다.
-      </p>
-      <p>
-        🎓 2019.03 ~ 2023.07 &nbsp; 서강대학교 수학과 / 컴퓨터공학과 졸업<br>
-        🔬 2023.08 ~ 2025.08 &nbsp; 서강대학교 VCLAB 석사 졸업<br>
-        💻 2026.01 ~ ing &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 삼성 청년 SW 아카데미 (SSAFY) 15기 이수중
-      </p>
-    </td>
-  </tr>
-</table>
+  <h2>안녕하세요, Been입니다 👋</h2>
+  <p>
+    <b>AI에 관심이 많은 백엔드 & 인프라 엔지니어입니다.</b><br>
+    기술로 실질적인 문제를 해결하는 시스템을 만드는 것을 즐깁니다.
+  </p>
+  <p>
+    🎓 2019.03 ~ 2023.07 &nbsp; 서강대학교 수학과 / 컴퓨터공학과 졸업<br>
+    🔬 2023.08 ~ 2025.08 &nbsp; 서강대학교 VCLAB 석사 졸업<br>
+    💻 2026.01 ~ ing &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 삼성 청년 SW 아카데미 (SSAFY) 15기 이수중
+  </p>
 </div>
 
 <br>

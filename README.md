@@ -3,15 +3,10 @@
 </div>
 
 <div align="center">
-  <h2>안녕하세요, Been입니다 👋</h2>
+  <h2>Hi, I'm Been 👋</h2>
   <p>
-    <b>AI에 관심이 많은 백엔드 & 인프라 엔지니어입니다.</b><br>
-    기술로 실질적인 문제를 해결하는 시스템을 만드는 것을 즐깁니다.
-  </p>
-  <p>
-    🎓 2019.03 ~ 2023.07 &nbsp; 서강대학교 수학과 / 컴퓨터공학과 졸업<br>
-    🔬 2023.08 ~ 2025.08 &nbsp; 서강대학교 VCLAB 석사 졸업<br>
-    💻 2026.01 ~ ing &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 삼성 청년 SW 아카데미 (SSAFY) 15기 이수중
+    <b>A SW Engineer with a passion for emerging technologies.</b><br>
+    I enjoy building systems that solve real-world problems through technology.
   </p>
 </div>
 
@@ -20,9 +15,9 @@
 
 <div align="center">
 
-## 🚀 관심 분야
+## 🚀 Interests
 
-백엔드 아키텍처 · 인프라 엔지니어링 · 분산 시스템 · AI 시스템 · 3D Vision
+Backend Architecture · Infrastructure Engineering · Distributed Systems · AI Systems · 3D Vision
 
 </div>
 
@@ -31,7 +26,36 @@
 
 <div align="center">
 
-## 🛠️ 기술 스택
+## 📜 History
+
+**Samsung Youth SW Academy (SSAFY) 15th** &nbsp; `2026.01 ~ Present`
+
+Developer training program by Samsung Electronics · Focused on scalable backend system development
+
+`Java · Spring Boot · Vue.js`
+
+<br>
+
+**Sogang University VCLAB** — M.S. in Artificial Intelligence &nbsp; `2023.08 ~ 2025.08`
+
+Research in 3D Vision · Inverse Rendering
+
+`Python · PyTorch · MATLAB · C++ · Blender`
+
+<br>
+
+**Sogang University** — B.S. in Mathematics / Computer Science &nbsp; `2019.03 ~ 2023.07`
+
+Double major combining mathematical foundations and software engineering
+
+</div>
+
+<br>
+<br>
+
+<div align="center">
+
+## 🛠️ Tech Stack
 
 <br>
 
@@ -66,46 +90,19 @@
 
 ## 📌 Projects
 
-<table width="760">
-  <tr>
-    <th colspan="4">🧪 연구</th>
-  </tr>
-  <tr>
-    <th>프로젝트</th>
-    <th>학회 / 저널</th>
-    <th>역할</th>
-    <th>설명</th>
-  </tr>
-  <tr>
-    <td>LTC-IR</td>
-    <td>Pacific Graphics (Journal Track)</td>
-    <td>제1저자</td>
-    <td>Multiview Edge-Aware Inverse Rendering with Linearly Transformed Cosines</td>
-  </tr>
-</table>
+### 🧪 Research
+
+**[LTC-IR](https://www.researchgate.net/publication/396424595_LTC-IR_Multiview_Edge-Aware_Inverse_Rendering_with_Linearly_Transformed_Cosines)** — Multiview Edge-Aware Inverse Rendering with Linearly Transformed Cosines
+
+`3D Vision · PyTorch` · Pacific Graphics (Journal Track) · 1st Author
 
 <br>
 
-<table width="760">
-  <tr>
-    <th colspan="3">⚙️ 엔지니어링</th>
-  </tr>
-  <tr>
-    <th>프로젝트</th>
-    <th>기술 스택</th>
-    <th>설명</th>
-  </tr>
-  <tr>
-    <td>백엔드 API 서버</td>
-    <td>Spring Boot · Docker · Nginx</td>
-    <td>컨테이너 기반 배포 환경의 RESTful API 서버</td>
-  </tr>
-  <tr>
-    <td>파일 관리 시스템</td>
-    <td>AWS · S3 · MinIO</td>
-    <td>클라우드 기반 파일 업로드 및 관리 시스템</td>
-  </tr>
-</table>
+### ⚙️ Engineering
+
+**[냉구](https://github.com/cliffside-potatoes/Backend/tree/dev)** *(in progress)* — A service for managing fridge ingredients and getting recipe recommendations based on what you have
+
+`Java · Spring Boot · Docker`
 
 </div>
 
@@ -114,7 +111,7 @@
 
 <div align="center">
 
-## 🧑‍💻 연락처
+## 🧑‍💻 Contact
 
 <br>
 

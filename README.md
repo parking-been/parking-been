@@ -6,7 +6,7 @@
 <table>
   <tr>
     <td width="160" valign="middle">
-      <img src="다빈프로필사진2.jpg" width="160" />
+      <img src="깃허브프로필사진2.jpg" width="160" />
     </td>
     <td valign="middle">
       <h2>안녕하세요, Been입니다 👋</h2>
@@ -75,7 +75,7 @@
 
 ## 📌 Projects
 
-<table width="100%">
+<table width="760">
   <tr>
     <th colspan="4">🧪 연구</th>
   </tr>
@@ -95,7 +95,7 @@
 
 <br>
 
-<table width="100%">
+<table width="760">
   <tr>
     <th colspan="3">⚙️ 엔지니어링</th>
   </tr>
